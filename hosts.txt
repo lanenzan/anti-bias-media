@@ -721,6 +721,9 @@
 0.0.0.0 ydyl.takungpao.com
 0.0.0.0 www.takungpao.com.hk
 
+# HK-圈傳媒/港人港地
+0.0.0.0 news.looop.hk
+0.0.0.0 speakout.hk
 
 # HK-星島日報
 0.0.0.0 std.stheadline.com
